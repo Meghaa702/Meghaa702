@@ -4,7 +4,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">Hey everyone👋, I'm Ipsita Mishra, your friendly neighborhood coder! Let's harmonize code and create something extraordinary together! 🎶💻</h3></summary>
+    <summary><h3 style="display: inline-block">Hey everyone👋, I'm Ipsita Mishra, your friendly neighborhood coder!<br>
+      Let's harmonize code and create something extraordinary together! 🎶💻</h3></summary>
   </ul>
 </div>
 
