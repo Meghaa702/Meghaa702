@@ -24,13 +24,13 @@
 
 
 <!--Intro start-->
-- 👩‍💻  Currently honing my skills in **Python, Java, SQL, Pandas, NumPy, and Tableau**.
+- 👩‍💻  Currently honing my skills in **Python, C, SQL, Pandas, NumPy, and Tableau**.
 
 - 🌱 Nurturing my skills to become a **Data Science virtuoso**, constantly learning and exploring.
 
 - 🌟 Data Science Enthusiast with an insatiable curiosity for exploring complex datasets and uncovering hidden patterns that drive insights and innovation.
 
-- 💬 Open to discussions on **Python, Java, SQL, Pandas, and NumPy**. Ask me anything!
+- 💬 Open to discussions on **Python, C, SQL and Web Development**. Ask me anything!
  
 - 📫 Feel free to reach out to me and let's connect and collaborate on the fascinating world of data!
 - <a href="https://linktr.ee/Ipsita_Mishra" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
