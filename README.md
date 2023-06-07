@@ -90,7 +90,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/ipsita-mishra-b5a977228?original_referer=https%3A%2F%2Flinktr.ee%2F" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="mailto:mishraaipsitaa702@gmail.com " target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/giet_1562" target="_blank"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
 </div>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMeghaa702&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
