@@ -82,7 +82,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,python,gcp,java,c,mysql,php,discord,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,python,gcp,java,c,mysql,linkedin,discord,vscode&perline=14" />
   </a>
 </p>
 
